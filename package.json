@@ -1,0 +1,24 @@
+{
+  "name": "cadastrousuario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LCDS97/projeto_CadastroUsuario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LCDS97/projeto_CadastroUsuario/issues"
+  },
+  "homepage": "https://github.com/LCDS97/projeto_CadastroUsuario#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
